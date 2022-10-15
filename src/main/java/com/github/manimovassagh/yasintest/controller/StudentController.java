@@ -13,6 +13,6 @@ public class StudentController {
 
     @GetMapping("/test")
     public String testController(){
-        return "Hi It is my new controller";
+        return "";
     }
 }
